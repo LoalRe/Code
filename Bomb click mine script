@@ -4,7 +4,6 @@
 
 -- Cracked by grimcity
 
-copyToClipboard("This text will be copied to the clipboard!")
 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
